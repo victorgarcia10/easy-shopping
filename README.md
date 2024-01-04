@@ -1,7 +1,7 @@
 <h1 align="center">Easy shopping</h1>
 <br>
 
-<h2> APLICAÇÂO EM DESKTOP: </h2>
+<h2>💻 APLICAÇÂO EM DESKTOP: </h2>
 
 <br>
 <br>
@@ -11,16 +11,19 @@
 </div>
 <hr>
 
-<h2> APLICAÇÃO MOBILE: </h2>
+<h2>📱 APLICAÇÃO MOBILE: </h2>
 <div align="center">
   <img width ="200px" src="https://github.com/victorgarcia10/easy-shopping/blob/main/assets/imagem/img-mobile.png?raw=true" alt="foto da imagam aplicação em mobile"/>
 </div>
 
-<h2>SOBRE O PROJETO:</h2>
+<h2> 🏠 SOBRE O PROJETO:</h2>
+<br>
+
 
 <p> Projeto simples desenvolvido de forma responsiva para aplicações em Desktop e Mobile conforme exemplos acima </p>
 
-<h2>Tecnologias utilizadas </h2>
+<br>
+<h2> 🌐 Tecnologias utilizadas </h2>
 <br>
 
 <div>
